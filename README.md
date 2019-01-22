@@ -6,7 +6,7 @@ If you have completed the tutorial, then congrates. This will be a guide for you
 
 If you want to check out the tutorial, visit this link 
 
-[Manim Resource Guide](https://github.com/malhotra5/Manim-Tutorial)
+[Manim Tutorial](https://github.com/malhotra5/Manim-Tutorial)
 
 This guide will show you the most common methods, classes, etc and as well as the arguments you should pass through. 
 
