@@ -64,6 +64,7 @@ This guide will show you the most common methods, classes, etc and as well as th
 **Continous Animations:**
 * ContinualRotation
 * ContinualMovement
+
 **Grouping**
 * VGroup
 
