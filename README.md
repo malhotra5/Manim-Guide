@@ -12,12 +12,23 @@ This guide will show you the most common methods, classes, etc and as well as th
 
 The guide gives a description on the functionalities and how to pass parameters. 
 
+## Table of Content
+* Creations
+* Animations
+* Indication
+* Movement
+* Rotation
+* Transformations
+* Continuos Animations
+
+
 **Creations:**
 * ShowPartial
 * ShowCreation
 * Uncreate(Mobject, Mobject, ...)
 * DrawBordersThenFill
 * Write(TextMobject)
+Writes the text from left to right 
 
 **Animations:**
 * FadeOut(mobject)
