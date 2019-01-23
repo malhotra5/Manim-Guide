@@ -30,10 +30,9 @@ The guide gives a description on the functionalities and how to pass parameters.
 Description: Removes mobject from screen while animating. Takes multiple mobjects as parameters.
 ```
 * DrawBordersThenFill
-```
-* Write(TextMobject)
-Description: Writes the text from left to right. Takes only one TextMobject as parameter.  
-```
+* ``` Write(TextMobject)
+```Description: Writes the text from left to right. Takes only one TextMobject as parameter.  ```
+
 **Animations:**
 * FadeOut(mobject)
 * FadeIn(mobject)
