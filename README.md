@@ -19,7 +19,7 @@ The guide gives a description on the functionalities and how to pass parameters.
 * Movement
 * Rotation
 * Transformations
-* Continuos Animations
+* Continuous Animations
 
 
 **Creations:**
@@ -73,7 +73,7 @@ Writes the text from left to right
 * ApplyMethod
 * FadeToColor
 
-**Continous Animations:**
+**Continuous Animations:**
 * ContinualRotation
 * ContinualMovement
 
