@@ -13,8 +13,12 @@ This guide will show you the most common methods, classes, etc and as well as th
 The guide gives a description on the functionalities and how to pass parameters. 
 
 ## Table of Content
+```python
 * Creations
+```
+```python
 * Animations
+```
 * Indication
 * Movement
 * Rotation
@@ -25,7 +29,9 @@ The guide gives a description on the functionalities and how to pass parameters.
 **Creations:**
 * ShowPartial
 * ShowCreation
+```python
 * Uncreate(Mobject, Mobject, ...)
+```
 * DrawBordersThenFill
 * Write(TextMobject)
 Writes the text from left to right 
