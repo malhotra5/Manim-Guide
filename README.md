@@ -10,24 +10,25 @@ If you want to check out the tutorial, visit this link
 
 This guide will show you the most common methods, classes, etc and as well as the arguments you should pass through. 
 
+The guide gives a description on the functionalities and how to pass parameters. 
 
 **Creations:**
 * ShowPartial
 * ShowCreation
-* Uncreate
+* Uncreate(Mobject, Mobject, ...)
 * DrawBordersThenFill
-* Write
+* Write(TextMobject)
 
 **Animations:**
-* FadeOut
-* FadeIn 
+* FadeOut(mobject)
+* FadeIn(mobject)
 * FadeInAndShiftFromDirection
 * FadeInFrom
 * FadeInFromDown
 * FadeOutAndShift
 * FadeOutAndShiftDown
-* VFadeIn
-* VFadeOut
+* VFadeIn(VGroup)
+* VFadeOut(VGroup)
 * GrowFromPoint
 * GrowFromCenter
 * GrowFromEdge
@@ -46,7 +47,7 @@ This guide will show you the most common methods, classes, etc and as well as th
 * TurnInsideOut
 
 **Movement:** 
-* MoveAlongPath
+* MoveAlongPath(GraphFunction)
 
 **Rotation:**
 * Rotate
@@ -66,5 +67,5 @@ This guide will show you the most common methods, classes, etc and as well as th
 * ContinualMovement
 
 **Grouping**
-* VGroup
+* VGroup(Mobject, Mobject, ...)
 
