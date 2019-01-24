@@ -13,6 +13,7 @@ This guide will show you the most common methods, classes, etc and as well as th
 The guide gives a description on the functionalities and how to pass parameters. 
 
 ## Table of Content
+* Running Args
 * Creations
 * Animations
 * Indication
@@ -21,6 +22,15 @@ The guide gives a description on the functionalities and how to pass parameters.
 * Transformations
 * Continuous Animations
 
+**Running Args**
+* -r hxw
+This defines pixel resolution you want the video to be. More the resolution, more the time it will take to make the video. 
+* -p
+This tell Manim to show the result of the video after making it.
+* -l
+It is a predefined resolution. It is mainly used when making a new video, because it takes the least time to render.
+* -m
+A predefined resolution that looks good, and takes a considerable amount of time to make videos. 
 
 **Creations:**
 * ShowPartial
